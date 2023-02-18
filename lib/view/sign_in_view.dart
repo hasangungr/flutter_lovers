@@ -24,7 +24,7 @@ class SignInView extends StatelessWidget {
             mainAxisSize: MainAxisSize.max,
             crossAxisAlignment: CrossAxisAlignment.stretch,
             mainAxisAlignment: MainAxisAlignment.center,
-            children: const [
+            children:  [
               Text(
                 "Oturum Aç",
                 textAlign: TextAlign.center,
